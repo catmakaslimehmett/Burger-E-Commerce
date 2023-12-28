@@ -1,0 +1,136 @@
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

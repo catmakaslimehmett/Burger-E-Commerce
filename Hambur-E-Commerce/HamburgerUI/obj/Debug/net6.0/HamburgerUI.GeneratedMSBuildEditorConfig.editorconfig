@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HamburgerUI
+build_property.RootNamespace = HamburgerUI
+build_property.ProjectDir = C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\HamburgerUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\HamburgerUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/AdditionalProduct/AdditionalProductAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkaXRpb25hbFByb2R1Y3RcQWRkaXRpb25hbFByb2R1Y3RBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/AdditionalProduct/AdditionalProductUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkaXRpb25hbFByb2R1Y3RcQWRkaXRpb25hbFByb2R1Y3RVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/AdditionalProduct/Listeleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkaXRpb25hbFByb2R1Y3RcTGlzdGVsZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Beverage/BeverageAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmV2ZXJhZ2VcQmV2ZXJhZ2VBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Beverage/BeverageUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmV2ZXJhZ2VcQmV2ZXJhZ2VVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Beverage/Listeleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmV2ZXJhZ2VcTGlzdGVsZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Menu/MenuAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxNZW51QWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Menu/MenuListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxNZW51TGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Menu/MenuUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxNZW51VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Product/HamburgerAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxIYW1idXJnZXJBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Product/HamburgerListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxIYW1idXJnZXJMaXN0ZWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Views/Product/HamburgerUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxIYW1idXJnZXJVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Account/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Home/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGV0aXNpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/OrderDetails/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXE9yZGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Product/CreateCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Siparis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Siparis/Sepet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xTZXBldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/User/UserUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Areas/Admin/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2n7x3gu7ke
+
+[C:/Users/Mehmet ÇATMAKAŞLI/Desktop/Furkan Hamburgerci Son/HamburgerUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mzmndb60wk

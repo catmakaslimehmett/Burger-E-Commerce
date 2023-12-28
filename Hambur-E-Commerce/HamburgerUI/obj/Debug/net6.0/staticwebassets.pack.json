@@ -1,0 +1,1117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HamburgerUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HamburgerUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\401.html",
+      "PackagePath": "staticwebassets\\admin\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\404.html",
+      "PackagePath": "staticwebassets\\admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\500.html",
+      "PackagePath": "staticwebassets\\admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\login.html",
+      "PackagePath": "staticwebassets\\admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\password.html",
+      "PackagePath": "staticwebassets\\admin\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\register.html",
+      "PackagePath": "staticwebassets\\admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\admin\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\.gitattributes",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_variables.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\base\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_common.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_footer.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_hover.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\common\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_404.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_404.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_404.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_about.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\pages\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\prepros-6.config",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_cart-banner.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_cart-banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_list.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_shop-banner.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_shop-banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\css\\scss\\sections\\_testimonials.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\abt.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\abt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar1.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar2.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar3.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\avaters\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\company-logos\\1.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\company-logos\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\company-logos\\2.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\company-logos\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\company-logos\\3.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\company-logos\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\company-logos\\4.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\company-logos\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\company-logos\\5.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\company-logos\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\dd.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\feature-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\hakkında.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\hakkında.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\hero-bg-2.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\hero-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\hero-bg-3.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\hero-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\homepage-bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-1.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-2.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-3.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-4.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-5.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-6.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\latest-news\\news-bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\HamburgerMenu.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\HamburgerMenu.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\TavukHamburgerMenu.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\TavukHamburgerMenu.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\hamburger1.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\hamburger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-1.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-2.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-3.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\img\\wdwe.jpg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\img\\wdwe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\form-validate.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\form-validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\sticker.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\sticker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\js\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.eot_",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.eot_"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.eot_",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.eot_"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.eot_",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.eot_"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\cart.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\checkout.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\IMD-License.txt",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\IMD-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\main.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\css\\responsive-leyouts.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\css\\responsive-leyouts.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\index.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\jhighlight\\jquery.highlight.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\jhighlight\\jquery.highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\jhighlight\\jquery.highlight.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\jhighlight\\jquery.highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.noeasing.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\animatescroll.noeasing.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\custom.css",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\jquery-1.8.3.min.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\pagescroll\\jquery-1.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\help-documentation\\js\\universal\\jquery.js",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\help-documentation\\js\\universal\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\index_2.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\index_2.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\mail.php",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\news.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\news.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\shop.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\single-news.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\single-news.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\fruitkha-1.0.0\\single-product.html",
+      "PackagePath": "staticwebassets\\fruitkha-1.0.0\\single-product.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\css\\popuo-box.css",
+      "PackagePath": "staticwebassets\\register\\css\\popuo-box.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\css\\style.css",
+      "PackagePath": "staticwebassets\\register\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\arkaplan.jpg",
+      "PackagePath": "staticwebassets\\register\\images\\arkaplan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\register\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\e-mail.png",
+      "PackagePath": "staticwebassets\\register\\images\\e-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\password.png",
+      "PackagePath": "staticwebassets\\register\\images\\password.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\tick.png",
+      "PackagePath": "staticwebassets\\register\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\images\\user.png",
+      "PackagePath": "staticwebassets\\register\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\index.html",
+      "PackagePath": "staticwebassets\\register\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet ÇATMAKAŞLI\\Desktop\\Furkan Hamburgerci Son\\HamburgerUI\\wwwroot\\register\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\register\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HamburgerUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HamburgerUI.props",
+      "PackagePath": "build\\HamburgerUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HamburgerUI.props",
+      "PackagePath": "buildMultiTargeting\\HamburgerUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HamburgerUI.props",
+      "PackagePath": "buildTransitive\\HamburgerUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,96 @@
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\bin\Debug\net6.0\Core.deps.json
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\bin\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\bin\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Hamburgerci\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\projeeeee\Hamburgerci\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MASAÜSTÜ\CV ÖNEMLİ BELGELER\Hamburgerci\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\MVCPROJEHAMBUGER\Hamburgerci\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.deps.json
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.pdb
+D:\Coding101\Projeler\HamburgerProje\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\omeralppppp\Furkan Hamburgerci Son\Core\obj\Debug\net6.0\ref\Core.dll
